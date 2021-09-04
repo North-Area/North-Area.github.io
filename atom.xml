@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>North Area</title>
+  <icon>https://www.northarea.tech/favicon.png</icon>
+  <subtitle>Study at JAIST.</subtitle>
+  <link href="https://www.northarea.tech/atom.xml" rel="self"/>
+  
+  <link href="https://www.northarea.tech/"/>
+  <updated>2021-09-03T17:36:33.363Z</updated>
+  <id>https://www.northarea.tech/</id>
+  
+  <author>
+    <name>North Area</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>修士二年级の手账</title>
+    <link href="https://www.northarea.tech/2021/09/04/6/"/>
+    <id>https://www.northarea.tech/2021/09/04/6/</id>
+    <published>2021-09-03T18:20:13.000Z</published>
+    <updated>2021-09-03T17:36:33.363Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;【随笔】九月…&quot;&gt;&lt;a href=&quot;#【随笔】九月…&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="手账" scheme="https://www.northarea.tech/categories/%E6%89%8B%E8%B4%A6/"/>
+    
+    
+    <category term="手账" scheme="https://www.northarea.tech/tags/%E6%89%8B%E8%B4%A6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://www.northarea.tech/2021/08/24/hello-world/"/>
+    <id>https://www.northarea.tech/2021/08/24/hello-world/</id>
+    <published>2021-08-23T16:49:24.409Z</published>
+    <updated>2021-08-23T16:49:24.409Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>吧友拟人小说系列</title>
+    <link href="https://www.northarea.tech/2021/08/08/novel/"/>
+    <id>https://www.northarea.tech/2021/08/08/novel/</id>
+    <published>2021-08-08T07:16:35.000Z</published>
+    <updated>2021-08-08T01:34:00.925Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;导言&quot;&gt;&lt;a href=&quot;#导言&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="瞎写" scheme="https://www.northarea.tech/categories/%E7%9E%8E%E5%86%99/"/>
+    
+    
+    <category term="小说" scheme="https://www.northarea.tech/tags/%E5%B0%8F%E8%AF%B4/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Blender &amp; 游戏开发/学习笔记</title>
+    <link href="https://www.northarea.tech/2020/08/15/0x003/"/>
+    <id>https://www.northarea.tech/2020/08/15/0x003/</id>
+    <published>2020-08-14T21:16:35.000Z</published>
+    <updated>2020-09-23T11:53:59.316Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;导言&quot;&gt;&lt;a href=&quot;#导言&quot; class=&quot;headerlink&quot; title=&quot;导言&quot;&gt;&lt;/a&gt;导言&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;软件：Blender2.82，Unreal Engine 4,</summary>
+        
+      
+    
+    
+    
+    <category term="技术文档" scheme="https://www.northarea.tech/categories/%E6%8A%80%E6%9C%AF%E6%96%87%E6%A1%A3/"/>
+    
+    
+    <category term="技术" scheme="https://www.northarea.tech/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>修士一年级の手账</title>
+    <link href="https://www.northarea.tech/2020/09/02/5/"/>
+    <id>https://www.northarea.tech/2020/09/02/5/</id>
+    <published>2020-09-01T22:19:43.000Z</published>
+    <updated>2020-09-01T17:07:32.906Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;【随笔】-入学前&quot;&gt;&lt;a href=&quot;#【随笔】-入学前&quot; class=&quot;headerlink&quot; title=&quot;【随笔】 入学前&quot;&gt;&lt;/a&gt;【随笔】</summary>
+        
+      
+    
+    
+    
+    <category term="手账" scheme="https://www.northarea.tech/categories/%E6%89%8B%E8%B4%A6/"/>
+    
+    
+    <category term="手账" scheme="https://www.northarea.tech/tags/%E6%89%8B%E8%B4%A6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Python &amp; Machine Learning 开发/学习笔记</title>
+    <link href="https://www.northarea.tech/2020/07/19/0x004/"/>
+    <id>https://www.northarea.tech/2020/07/19/0x004/</id>
+    <published>2020-07-18T20:16:35.000Z</published>
+    <updated>2020-07-18T21:19:05.510Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;导言&quot;&gt;&lt;a href=&quot;#导言&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="技术文档" scheme="https://www.northarea.tech/categories/%E6%8A%80%E6%9C%AF%E6%96%87%E6%A1%A3/"/>
+    
+    
+    <category term="技术" scheme="https://www.northarea.tech/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>运维 &amp; IoT 开发/学习笔记</title>
+    <link href="https://www.northarea.tech/2020/07/19/0x005/"/>
+    <id>https://www.northarea.tech/2020/07/19/0x005/</id>
+    <published>2020-07-19T07:16:35.000Z</published>
+    <updated>2020-07-18T19:01:20.474Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;导言&quot;&gt;&lt;a href=&quot;#导言&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="技术文档" scheme="https://www.northarea.tech/categories/%E6%8A%80%E6%9C%AF%E6%96%87%E6%A1%A3/"/>
+    
+    
+    <category term="技术" scheme="https://www.northarea.tech/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2016~2017阿里云ECS运维技术记录</title>
+    <link href="https://www.northarea.tech/2017/10/19/0x000/"/>
+    <id>https://www.northarea.tech/2017/10/19/0x000/</id>
+    <published>2017-10-19T07:16:35.000Z</published>
+    <updated>2020-05-27T11:00:58.563Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;这是2016年~2017年10月我所用的阿里云ECS的运维技术记录集合，主要是基于centos6.5/7.2,LAMP、LNMP与WordPress的个人维护记录集，适合新人参考。&lt;/p&gt;
+&lt;h1 id=&quot;备案与建站&quot;&gt;&lt;a href=&quot;#备案与建站&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="技术文档" scheme="https://www.northarea.tech/categories/%E6%8A%80%E6%9C%AF%E6%96%87%E6%A1%A3/"/>
+    
+    
+    <category term="技术" scheme="https://www.northarea.tech/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>后端/运维技术笔记@2017~2020</title>
+    <link href="https://www.northarea.tech/2020/04/12/0x001/"/>
+    <id>https://www.northarea.tech/2020/04/12/0x001/</id>
+    <published>2020-04-12T04:10:46.000Z</published>
+    <updated>2020-05-25T13:40:33.555Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Typecho被getshell之反思&quot;&gt;&lt;a href=&quot;#Typecho被getshell之反思&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="技术文档" scheme="https://www.northarea.tech/categories/%E6%8A%80%E6%9C%AF%E6%96%87%E6%A1%A3/"/>
+    
+    
+    <category term="技术" scheme="https://www.northarea.tech/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>大四学年の手账</title>
+    <link href="https://www.northarea.tech/2019/08/09/4/"/>
+    <id>https://www.northarea.tech/2019/08/09/4/</id>
+    <published>2019-08-08T18:24:12.000Z</published>
+    <updated>2020-05-25T13:30:17.712Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;【随笔】进入大四的自己&quot;&gt;&lt;a href=&quot;#【随笔】进入大四的自己&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="手账" scheme="https://www.northarea.tech/categories/%E6%89%8B%E8%B4%A6/"/>
+    
+    
+    <category term="手账" scheme="https://www.northarea.tech/tags/%E6%89%8B%E8%B4%A6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>幻想乡小说随笔@2016~2020</title>
+    <link href="https://www.northarea.tech/2020/01/01/article/"/>
+    <id>https://www.northarea.tech/2020/01/01/article/</id>
+    <published>2019-12-31T16:42:55.000Z</published>
+    <updated>2020-05-25T13:30:14.344Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;简单说明&quot;&gt;&lt;a href=&quot;#简单说明&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="瞎写" scheme="https://www.northarea.tech/categories/%E7%9E%8E%E5%86%99/"/>
+    
+    
+    <category term="小说" scheme="https://www.northarea.tech/tags/%E5%B0%8F%E8%AF%B4/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>大三学年の手账</title>
+    <link href="https://www.northarea.tech/2018/08/18/3/"/>
+    <id>https://www.northarea.tech/2018/08/18/3/</id>
+    <published>2018-08-17T17:15:03.000Z</published>
+    <updated>2020-05-25T13:30:10.738Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;本文&lt;strong&gt;记录&lt;/strong&gt;着我大学生活“重新开始”的一年，基本上质量会高很多，不会有负能量的东西，而且也仅仅会记录比较重要的事情，所以文章不会太长。大概在2018年8月更新完毕。&lt;/p&gt;
+&lt;h1 id=&quot;【记录】9月&quot;&gt;&lt;a href=&quot;#【记录】9月&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="手账" scheme="https://www.northarea.tech/categories/%E6%89%8B%E8%B4%A6/"/>
+    
+    
+    <category term="手账" scheme="https://www.northarea.tech/tags/%E6%89%8B%E8%B4%A6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>大二学年の手账</title>
+    <link href="https://www.northarea.tech/2017/10/19/2/"/>
+    <id>https://www.northarea.tech/2017/10/19/2/</id>
+    <published>2017-10-19T12:25:37.000Z</published>
+    <updated>2020-05-25T13:30:05.823Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;这篇文章记录着我悲惨的大学二年级，即使是记录2个学期的事情，也都散发着满满的负能量。毕竟真是悲惨，从被垃圾人折磨，搬离宿舍，到一个人习惯独居，后来又被恶心的学校利用，被各种各样的项目绑架，却似乎小有成就….当然负能量是离不开挂科的，估计这是我大学四年当中最黑暗最悲惨的一年，</summary>
+        
+      
+    
+    
+    
+    <category term="手账" scheme="https://www.northarea.tech/categories/%E6%89%8B%E8%B4%A6/"/>
+    
+    
+    <category term="手账" scheme="https://www.northarea.tech/tags/%E6%89%8B%E8%B4%A6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>大一学年の手账</title>
+    <link href="https://www.northarea.tech/2017/10/19/1/"/>
+    <id>https://www.northarea.tech/2017/10/19/1/</id>
+    <published>2017-10-19T11:20:13.000Z</published>
+    <updated>2020-05-25T13:30:01.553Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;多图慎入。本文记录了我大学一年级的点点滴滴重要的事情与杂想，这其中包括对垃圾环境的吐槽，也有参加数学建模比赛，与糟糕队友合作的故事，当然也有逃课去旅行，一个人去北京大学暑期学校的难忘回忆。总之，过去是痛苦的，但也是让人有所成长的。收获不多，但值得记录。毕竟客观来看，勉勉强强</summary>
+        
+      
+    
+    
+    
+    <category term="手账" scheme="https://www.northarea.tech/categories/%E6%89%8B%E8%B4%A6/"/>
+    
+    
+    <category term="手账" scheme="https://www.northarea.tech/tags/%E6%89%8B%E8%B4%A6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>乱七八糟的科研搬砖随笔（已停更）</title>
+    <link href="https://www.northarea.tech/2020/02/28/0x002/"/>
+    <id>https://www.northarea.tech/2020/02/28/0x002/</id>
+    <published>2020-02-27T16:44:28.000Z</published>
+    <updated>2020-05-25T13:29:53.955Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;这篇文章是我在2017年12月开的坑，但是AFK了将近一年，本质原因还是因为懒（借口）。不过在2018年9月19日开始，我正式开始了实验室生涯，做稀土光功能材料与计算方向，就不得不重新来填这个坑了2333。稀土元素独特的4f电子层轨道，让其具有独特的光、电、磁特性，使得稀土</summary>
+        
+      
+    
+    
+    
+    <category term="技术文档" scheme="https://www.northarea.tech/categories/%E6%8A%80%E6%9C%AF%E6%96%87%E6%A1%A3/"/>
+    
+    
+    <category term="技术" scheme="https://www.northarea.tech/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2015及之前的黑历史（不要看！）</title>
+    <link href="https://www.northarea.tech/2017/09/29/2015-2011/"/>
+    <id>https://www.northarea.tech/2017/09/29/2015-2011/</id>
+    <published>2017-09-28T16:42:55.000Z</published>
+    <updated>2020-05-25T13:28:47.145Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;说了不要进来看了！！这里记录了2015年及2015年之前我能找到的所有黑历史中二玛丽苏杀马特日记随笔，所以，既然你们还是要看我就不按世界顺序来整理了，而且本文没目录，好好翻吧你们这些魂淡（嘲讽脸(●ˇ∀ˇ●)（迫真&lt;/p&gt;
+&lt;h1</summary>
+        
+      
+    
+    
+    
+    <category term="手账" scheme="https://www.northarea.tech/categories/%E6%89%8B%E8%B4%A6/"/>
+    
+    
+    <category term="黑历史" scheme="https://www.northarea.tech/tags/%E9%BB%91%E5%8E%86%E5%8F%B2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>DIY留学申请手札（已失效）</title>
+    <link href="https://www.northarea.tech/2019/07/25/apply/"/>
+    <id>https://www.northarea.tech/2019/07/25/apply/</id>
+    <published>2019-07-25T15:49:11.000Z</published>
+    <updated>2020-05-25T13:28:42.499Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;简单说明&quot;&gt;&lt;a href=&quot;#简单说明&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="瞎写" scheme="https://www.northarea.tech/categories/%E7%9E%8E%E5%86%99/"/>
+    
+    
+    <category term="留学" scheme="https://www.northarea.tech/tags/%E7%95%99%E5%AD%A6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>书单&amp;影评&amp;纪录片/galgameのlist（已停更）</title>
+    <link href="https://www.northarea.tech/2019/08/03/diary/"/>
+    <id>https://www.northarea.tech/2019/08/03/diary/</id>
+    <published>2019-08-02T16:24:12.000Z</published>
+    <updated>2020-05-25T13:28:35.874Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;strong&gt;由于个人Wiki的建立，本文的历史使命已经完成，即日起停止更新。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;感觉还是记录一下吧，模仿一下默川同学的好习惯，不然怕失去信仰变成咸鱼。这里所记录的书只限于小说，游戏只限于galgame，纪录片则不包含旅行/探险类的，比如《荒</summary>
+        
+      
+    
+    
+    
+    <category term="瞎写" scheme="https://www.northarea.tech/categories/%E7%9E%8E%E5%86%99/"/>
+    
+    
+    <category term="galgame" scheme="https://www.northarea.tech/tags/galgame/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>基于basic语言的工业传输过程计算</title>
+    <link href="https://www.northarea.tech/2017/10/20/imust1/"/>
+    <id>https://www.northarea.tech/2017/10/20/imust1/</id>
+    <published>2017-10-20T13:15:16.000Z</published>
+    <updated>2020-05-25T13:28:30.385Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;一维导热计算&quot;&gt;&lt;a href=&quot;#一维导热计算&quot; class=&quot;headerlink&quot; title=&quot;一维导热计算&quot;&gt;&lt;/a&gt;一维导热计算&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;非稳态&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&quot;highlight</summary>
+        
+      
+    
+    
+    
+    <category term="技术文档" scheme="https://www.northarea.tech/categories/%E6%8A%80%E6%9C%AF%E6%96%87%E6%A1%A3/"/>
+    
+    
+    <category term="传输" scheme="https://www.northarea.tech/tags/%E4%BC%A0%E8%BE%93/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>再一次，Hello World！</title>
+    <link href="https://www.northarea.tech/2017/09/19/start/"/>
+    <id>https://www.northarea.tech/2017/09/19/start/</id>
+    <published>2017-09-18T16:19:43.000Z</published>
+    <updated>2020-05-25T13:28:25.712Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to my new blog! This is a new beginning , so , I’m glad to talk about sth what i think is necessary for my new blog.&lt;/p&gt;
+&lt;h1</summary>
+        
+      
+    
+    
+    
+    <category term="瞎写" scheme="https://www.northarea.tech/categories/%E7%9E%8E%E5%86%99/"/>
+    
+    
+    <category term="黑历史" scheme="https://www.northarea.tech/tags/%E9%BB%91%E5%8E%86%E5%8F%B2/"/>
+    
+  </entry>
+  
+</feed>
