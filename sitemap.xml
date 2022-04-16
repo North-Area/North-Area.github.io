@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.northarea.tech/2022/02/18/7/</loc>
+    <loc>https://www.northarea.tech/2022/04/17/7/</loc>
     
-    <lastmod>2022-02-26</lastmod>
+    <lastmod>2022-04-16</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.northarea.tech/about/index.html</loc>
+    
+    <lastmod>2022-04-16</lastmod>
     
   </url>
   
@@ -33,13 +40,6 @@
     <loc>https://www.northarea.tech/2021/09/17/6/</loc>
     
     <lastmod>2021-09-16</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.northarea.tech/about/index.html</loc>
-    
-    <lastmod>2020-11-07</lastmod>
     
   </url>
   
@@ -212,14 +212,14 @@
   </url>
   
   <url>
-    <loc>https://www.northarea.tech/albums/xiyu.html</loc>
+    <loc>https://www.northarea.tech/albums/yunzhong.html</loc>
     
     <lastmod>2020-05-18</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.northarea.tech/albums/yunzhong.html</loc>
+    <loc>https://www.northarea.tech/albums/xiyu.html</loc>
     
     <lastmod>2020-05-18</lastmod>
     
@@ -228,7 +228,7 @@
 
   <url>
     <loc>https://www.northarea.tech/</loc>
-    <lastmod>2022-02-26</lastmod>
+    <lastmod>2022-04-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -236,49 +236,49 @@
   
   <url>
     <loc>https://www.northarea.tech/tags/%E6%8A%80%E6%9C%AF/</loc>
-    <lastmod>2022-02-26</lastmod>
+    <lastmod>2022-04-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.northarea.tech/tags/%E6%89%8B%E8%B4%A6/</loc>
-    <lastmod>2022-02-26</lastmod>
+    <lastmod>2022-04-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.northarea.tech/tags/%E9%BB%91%E5%8E%86%E5%8F%B2/</loc>
-    <lastmod>2022-02-26</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.northarea.tech/tags/%E4%BC%A0%E8%BE%93/</loc>
-    <lastmod>2022-02-26</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.northarea.tech/tags/%E5%B0%8F%E8%AF%B4/</loc>
-    <lastmod>2022-02-26</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.northarea.tech/tags/%E7%95%99%E5%AD%A6/</loc>
-    <lastmod>2022-02-26</lastmod>
+    <lastmod>2022-04-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.northarea.tech/tags/galgame/</loc>
-    <lastmod>2022-02-26</lastmod>
+    <lastmod>2022-04-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.northarea.tech/tags/%E4%BC%A0%E8%BE%93/</loc>
+    <lastmod>2022-04-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.northarea.tech/tags/%E7%95%99%E5%AD%A6/</loc>
+    <lastmod>2022-04-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.northarea.tech/tags/%E5%B0%8F%E8%AF%B4/</loc>
+    <lastmod>2022-04-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -287,21 +287,21 @@
   
   <url>
     <loc>https://www.northarea.tech/categories/%E6%8A%80%E6%9C%AF%E6%96%87%E6%A1%A3/</loc>
-    <lastmod>2022-02-26</lastmod>
+    <lastmod>2022-04-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.northarea.tech/categories/%E6%89%8B%E8%B4%A6/</loc>
-    <lastmod>2022-02-26</lastmod>
+    <lastmod>2022-04-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.northarea.tech/categories/%E7%9E%8E%E5%86%99/</loc>
-    <lastmod>2022-02-26</lastmod>
+    <lastmod>2022-04-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
