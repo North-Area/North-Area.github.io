@@ -256,13 +256,6 @@
   </url>
   
   <url>
-    <loc>https://www.northarea.tech/tags/%E4%BC%A0%E8%BE%93/</loc>
-    <lastmod>2022-10-19</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.northarea.tech/tags/%E7%95%99%E5%AD%A6/</loc>
     <lastmod>2022-10-19</lastmod>
     <changefreq>daily</changefreq>
@@ -270,14 +263,21 @@
   </url>
   
   <url>
-    <loc>https://www.northarea.tech/tags/%E5%B0%8F%E8%AF%B4/</loc>
+    <loc>https://www.northarea.tech/tags/galgame/</loc>
     <lastmod>2022-10-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.northarea.tech/tags/galgame/</loc>
+    <loc>https://www.northarea.tech/tags/%E4%BC%A0%E8%BE%93/</loc>
+    <lastmod>2022-10-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.northarea.tech/tags/%E5%B0%8F%E8%AF%B4/</loc>
     <lastmod>2022-10-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
