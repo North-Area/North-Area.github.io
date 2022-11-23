@@ -6,7 +6,7 @@
   <link href="https://www.northarea.tech/atom.xml" rel="self"/>
   
   <link href="https://www.northarea.tech/"/>
-  <updated>2022-10-19T11:55:33.038Z</updated>
+  <updated>2022-11-23T18:07:25.862Z</updated>
   <id>https://www.northarea.tech/</id>
   
   <author>
@@ -17,11 +17,37 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>VUP运营记录</title>
+    <link href="https://www.northarea.tech/2022/11/23/0x003/"/>
+    <id>https://www.northarea.tech/2022/11/23/0x003/</id>
+    <published>2022-11-22T21:16:35.000Z</published>
+    <updated>2022-11-23T18:07:25.862Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;导言&quot;&gt;&lt;a href=&quot;#导言&quot; class=&quot;headerlink&quot; title=&quot;导言&quot;&gt;&lt;/a&gt;导言&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;软件：Blender2.82，Unreal Engine 4,</summary>
+        
+      
+    
+    
+    
+    <category term="技术文档" scheme="https://www.northarea.tech/categories/%E6%8A%80%E6%9C%AF%E6%96%87%E6%A1%A3/"/>
+    
+    
+    <category term="技术" scheme="https://www.northarea.tech/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+  </entry>
+  
+  <entry>
     <title>超级计算机使用笔记&amp;电磁学/量子化学计算</title>
-    <link href="https://www.northarea.tech/2022/10/19/0x004/"/>
-    <id>https://www.northarea.tech/2022/10/19/0x004/</id>
-    <published>2022-10-18T20:16:35.000Z</published>
-    <updated>2022-10-19T11:55:33.038Z</updated>
+    <link href="https://www.northarea.tech/2022/11/24/0x004/"/>
+    <id>https://www.northarea.tech/2022/11/24/0x004/</id>
+    <published>2022-11-23T16:16:35.000Z</published>
+    <updated>2022-11-23T18:05:56.676Z</updated>
     
     
       
@@ -38,6 +64,31 @@
     
     
     <category term="技术" scheme="https://www.northarea.tech/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>一切记忆———我的“朝花夕拾”</title>
+    <link href="https://www.northarea.tech/2022/11/24/0/"/>
+    <id>https://www.northarea.tech/2022/11/24/0/</id>
+    <published>2022-11-23T16:42:55.000Z</published>
+    <updated>2022-11-23T17:47:16.338Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;最初这篇随笔集是记录一些黑历史，尤其是2011-2015年之间的旧博客的文章。而随着历史进程的变化，在这个充斥着“被修正”的岁月史书的当下，越发是觉得要记录点什么，要去写下一些模糊却真实的记忆，把残缺的真实如同种子一般埋没在这网络中的角落当中。当然，在这篇随笔集中，多多少少</summary>
+        
+      
+    
+    
+    
+    <category term="手账" scheme="https://www.northarea.tech/categories/%E6%89%8B%E8%B4%A6/"/>
+    
+    
+    <category term="朝花夕拾" scheme="https://www.northarea.tech/tags/%E6%9C%9D%E8%8A%B1%E5%A4%95%E6%8B%BE/"/>
     
   </entry>
   
@@ -140,32 +191,6 @@
     
     
     <category term="手账" scheme="https://www.northarea.tech/tags/%E6%89%8B%E8%B4%A6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Blender &amp; 游戏开发/学习笔记</title>
-    <link href="https://www.northarea.tech/2020/08/15/0x003/"/>
-    <id>https://www.northarea.tech/2020/08/15/0x003/</id>
-    <published>2020-08-14T21:16:35.000Z</published>
-    <updated>2020-09-23T11:53:59.316Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;导言&quot;&gt;&lt;a href=&quot;#导言&quot; class=&quot;headerlink&quot; title=&quot;导言&quot;&gt;&lt;/a&gt;导言&lt;/h1&gt;&lt;ul&gt;
-&lt;li&gt;软件：Blender2.82，Unreal Engine 4,</summary>
-        
-      
-    
-    
-    
-    <category term="技术文档" scheme="https://www.northarea.tech/categories/%E6%8A%80%E6%9C%AF%E6%96%87%E6%A1%A3/"/>
-    
-    
-    <category term="技术" scheme="https://www.northarea.tech/tags/%E6%8A%80%E6%9C%AF/"/>
     
   </entry>
   
@@ -393,32 +418,6 @@
     
     
     <category term="技术" scheme="https://www.northarea.tech/tags/%E6%8A%80%E6%9C%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>2015及之前的黑历史（不要看！）</title>
-    <link href="https://www.northarea.tech/2017/09/29/2015-2011/"/>
-    <id>https://www.northarea.tech/2017/09/29/2015-2011/</id>
-    <published>2017-09-28T16:42:55.000Z</published>
-    <updated>2020-05-25T13:28:47.145Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;说了不要进来看了！！这里记录了2015年及2015年之前我能找到的所有黑历史中二玛丽苏杀马特日记随笔，所以，既然你们还是要看我就不按世界顺序来整理了，而且本文没目录，好好翻吧你们这些魂淡（嘲讽脸(●ˇ∀ˇ●)（迫真&lt;/p&gt;
-&lt;h1</summary>
-        
-      
-    
-    
-    
-    <category term="手账" scheme="https://www.northarea.tech/categories/%E6%89%8B%E8%B4%A6/"/>
-    
-    
-    <category term="黑历史" scheme="https://www.northarea.tech/tags/%E9%BB%91%E5%8E%86%E5%8F%B2/"/>
     
   </entry>
   
