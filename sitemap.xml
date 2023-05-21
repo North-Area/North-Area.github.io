@@ -235,14 +235,14 @@
 
   
   <url>
-    <loc>https://www.northarea.tech/tags/%E6%8A%80%E6%9C%AF/</loc>
+    <loc>https://www.northarea.tech/tags/%E6%9C%9D%E8%8A%B1%E5%A4%95%E6%8B%BE/</loc>
     <lastmod>2023-05-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.northarea.tech/tags/%E6%9C%9D%E8%8A%B1%E5%A4%95%E6%8B%BE/</loc>
+    <loc>https://www.northarea.tech/tags/%E6%8A%80%E6%9C%AF/</loc>
     <lastmod>2023-05-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -270,13 +270,6 @@
   </url>
   
   <url>
-    <loc>https://www.northarea.tech/tags/%E5%B0%8F%E8%AF%B4/</loc>
-    <lastmod>2023-05-21</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.northarea.tech/tags/%E4%BC%A0%E8%BE%93/</loc>
     <lastmod>2023-05-21</lastmod>
     <changefreq>daily</changefreq>
@@ -290,17 +283,24 @@
     <priority>0.6</priority>
   </url>
   
+  <url>
+    <loc>https://www.northarea.tech/tags/%E5%B0%8F%E8%AF%B4/</loc>
+    <lastmod>2023-05-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
   
   <url>
-    <loc>https://www.northarea.tech/categories/%E6%8A%80%E6%9C%AF%E6%96%87%E6%A1%A3/</loc>
+    <loc>https://www.northarea.tech/categories/%E6%89%8B%E8%B4%A6/</loc>
     <lastmod>2023-05-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.northarea.tech/categories/%E6%89%8B%E8%B4%A6/</loc>
+    <loc>https://www.northarea.tech/categories/%E6%8A%80%E6%9C%AF%E6%96%87%E6%A1%A3/</loc>
     <lastmod>2023-05-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
