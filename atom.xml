@@ -6,7 +6,7 @@
   <link href="https://www.northarea.tech/atom.xml" rel="self"/>
   
   <link href="https://www.northarea.tech/"/>
-  <updated>2023-05-21T09:54:18.793Z</updated>
+  <updated>2023-06-25T13:28:27.868Z</updated>
   <id>https://www.northarea.tech/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>一个VTuber（虚拟主播）IP的运营记录</title>
+    <link href="https://www.northarea.tech/2023/06/25/0x003/"/>
+    <id>https://www.northarea.tech/2023/06/25/0x003/</id>
+    <published>2023-06-24T21:16:35.000Z</published>
+    <updated>2023-06-25T13:28:27.868Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;导言&quot;&gt;&lt;a href=&quot;#导言&quot; class=&quot;headerlink&quot; title=&quot;导言&quot;&gt;&lt;/a&gt;导言&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;软件：Blender2.82，Unreal Engine 4,</summary>
+        
+      
+    
+    
+    
+    <category term="技术文档" scheme="https://www.northarea.tech/categories/%E6%8A%80%E6%9C%AF%E6%96%87%E6%A1%A3/"/>
+    
+    
+    <category term="技术" scheme="https://www.northarea.tech/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+  </entry>
   
   <entry>
     <title>博士后期课程の生活手账</title>
@@ -89,32 +115,6 @@
     
     
     <category term="朝花夕拾" scheme="https://www.northarea.tech/tags/%E6%9C%9D%E8%8A%B1%E5%A4%95%E6%8B%BE/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>一个VTuber（虚拟主播）IP的运营记录</title>
-    <link href="https://www.northarea.tech/2023/05/01/0x003/"/>
-    <id>https://www.northarea.tech/2023/05/01/0x003/</id>
-    <published>2023-04-30T21:16:35.000Z</published>
-    <updated>2023-05-02T15:23:25.885Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;导言&quot;&gt;&lt;a href=&quot;#导言&quot; class=&quot;headerlink&quot; title=&quot;导言&quot;&gt;&lt;/a&gt;导言&lt;/h1&gt;&lt;ul&gt;
-&lt;li&gt;软件：Blender2.82，Unreal Engine 4,</summary>
-        
-      
-    
-    
-    
-    <category term="技术文档" scheme="https://www.northarea.tech/categories/%E6%8A%80%E6%9C%AF%E6%96%87%E6%A1%A3/"/>
-    
-    
-    <category term="技术" scheme="https://www.northarea.tech/tags/%E6%8A%80%E6%9C%AF/"/>
     
   </entry>
   
