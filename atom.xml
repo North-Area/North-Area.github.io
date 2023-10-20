@@ -6,7 +6,7 @@
   <link href="https://www.northarea.tech/atom.xml" rel="self"/>
   
   <link href="https://www.northarea.tech/"/>
-  <updated>2023-10-04T18:12:12.328Z</updated>
+  <updated>2023-10-20T15:48:10.920Z</updated>
   <id>https://www.northarea.tech/</id>
   
   <author>
@@ -15,6 +15,83 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>博士二年级の生活手账</title>
+    <link href="https://www.northarea.tech/2023/10/20/9/"/>
+    <id>https://www.northarea.tech/2023/10/20/9/</id>
+    <published>2023-10-20T11:20:13.000Z</published>
+    <updated>2023-10-20T15:48:10.920Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;2022年10月我正式开始在能美山上的监狱攻读博士，方向是自旋拉曼光谱，增强拉曼光谱和量子化学计算。&lt;/p&gt;
+&lt;h1 id=&quot;【随笔】台湾之旅&quot;&gt;&lt;a href=&quot;#【随笔】台湾之旅&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="手账" scheme="https://www.northarea.tech/categories/%E6%89%8B%E8%B4%A6/"/>
+    
+    
+    <category term="手账" scheme="https://www.northarea.tech/tags/%E6%89%8B%E8%B4%A6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>从零开始的AI技术（应用）学习</title>
+    <link href="https://www.northarea.tech/2023/10/20/0x005/"/>
+    <id>https://www.northarea.tech/2023/10/20/0x005/</id>
+    <published>2023-10-19T21:16:35.000Z</published>
+    <updated>2023-10-20T13:43:20.744Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span</summary>
+        
+      
+    
+    
+    
+    <category term="技术文档" scheme="https://www.northarea.tech/categories/%E6%8A%80%E6%9C%AF%E6%96%87%E6%A1%A3/"/>
+    
+    
+    <category term="技术" scheme="https://www.northarea.tech/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>一个VTuber（虚拟主播）IP的运营记录</title>
+    <link href="https://www.northarea.tech/2023/10/18/0x003/"/>
+    <id>https://www.northarea.tech/2023/10/18/0x003/</id>
+    <published>2023-10-17T21:16:35.000Z</published>
+    <updated>2023-10-18T14:15:34.454Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;导言&quot;&gt;&lt;a href=&quot;#导言&quot; class=&quot;headerlink&quot; title=&quot;导言&quot;&gt;&lt;/a&gt;导言&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;软件：Blender2.82，Unreal Engine 4,</summary>
+        
+      
+    
+    
+    
+    <category term="技术文档" scheme="https://www.northarea.tech/categories/%E6%8A%80%E6%9C%AF%E6%96%87%E6%A1%A3/"/>
+    
+    
+    <category term="技术" scheme="https://www.northarea.tech/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+  </entry>
   
   <entry>
     <title>博士一年级の生活手账</title>
@@ -64,32 +141,6 @@
     
     
     <category term="朝花夕拾" scheme="https://www.northarea.tech/tags/%E6%9C%9D%E8%8A%B1%E5%A4%95%E6%8B%BE/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>一个VTuber（虚拟主播）IP的运营记录</title>
-    <link href="https://www.northarea.tech/2023/09/06/0x003/"/>
-    <id>https://www.northarea.tech/2023/09/06/0x003/</id>
-    <published>2023-09-05T21:16:35.000Z</published>
-    <updated>2023-09-06T22:21:20.046Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;导言&quot;&gt;&lt;a href=&quot;#导言&quot; class=&quot;headerlink&quot; title=&quot;导言&quot;&gt;&lt;/a&gt;导言&lt;/h1&gt;&lt;ul&gt;
-&lt;li&gt;软件：Blender2.82，Unreal Engine 4,</summary>
-        
-      
-    
-    
-    
-    <category term="技术文档" scheme="https://www.northarea.tech/categories/%E6%8A%80%E6%9C%AF%E6%96%87%E6%A1%A3/"/>
-    
-    
-    <category term="技术" scheme="https://www.northarea.tech/tags/%E6%8A%80%E6%9C%AF/"/>
     
   </entry>
   
@@ -469,58 +520,6 @@
     
     
     <category term="galgame" scheme="https://www.northarea.tech/tags/galgame/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>基于basic语言的工业传输过程计算</title>
-    <link href="https://www.northarea.tech/2017/10/20/imust1/"/>
-    <id>https://www.northarea.tech/2017/10/20/imust1/</id>
-    <published>2017-10-20T13:15:16.000Z</published>
-    <updated>2020-05-25T13:28:30.385Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;一维导热计算&quot;&gt;&lt;a href=&quot;#一维导热计算&quot; class=&quot;headerlink&quot; title=&quot;一维导热计算&quot;&gt;&lt;/a&gt;一维导热计算&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;非稳态&lt;/strong&gt;&lt;/p&gt;
-&lt;figure class=&quot;highlight</summary>
-        
-      
-    
-    
-    
-    <category term="技术文档" scheme="https://www.northarea.tech/categories/%E6%8A%80%E6%9C%AF%E6%96%87%E6%A1%A3/"/>
-    
-    
-    <category term="传输" scheme="https://www.northarea.tech/tags/%E4%BC%A0%E8%BE%93/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>再一次，Hello World！</title>
-    <link href="https://www.northarea.tech/2017/09/19/start/"/>
-    <id>https://www.northarea.tech/2017/09/19/start/</id>
-    <published>2017-09-18T16:19:43.000Z</published>
-    <updated>2020-05-25T13:28:25.712Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;Welcome to my new blog! This is a new beginning , so , I’m glad to talk about sth what i think is necessary for my new blog.&lt;/p&gt;
-&lt;h1</summary>
-        
-      
-    
-    
-    
-    <category term="瞎写" scheme="https://www.northarea.tech/categories/%E7%9E%8E%E5%86%99/"/>
-    
-    
-    <category term="黑历史" scheme="https://www.northarea.tech/tags/%E9%BB%91%E5%8E%86%E5%8F%B2/"/>
     
   </entry>
   
