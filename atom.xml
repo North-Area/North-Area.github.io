@@ -6,7 +6,7 @@
   <link href="https://www.northarea.tech/atom.xml" rel="self"/>
   
   <link href="https://www.northarea.tech/"/>
-  <updated>2024-03-31T15:32:05.462Z</updated>
+  <updated>2024-05-26T09:29:12.766Z</updated>
   <id>https://www.northarea.tech/</id>
   
   <author>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>博士二年级の生活手账</title>
-    <link href="https://www.northarea.tech/2024/04/01/9/"/>
-    <id>https://www.northarea.tech/2024/04/01/9/</id>
-    <published>2024-03-31T16:20:13.000Z</published>
-    <updated>2024-03-31T15:32:05.462Z</updated>
+    <link href="https://www.northarea.tech/2024/05/27/9/"/>
+    <id>https://www.northarea.tech/2024/05/27/9/</id>
+    <published>2024-05-26T16:20:13.000Z</published>
+    <updated>2024-05-26T09:29:12.766Z</updated>
     
     
       
@@ -43,18 +43,19 @@
   </entry>
   
   <entry>
-    <title>从零开始的AI技术（应用）与板绘学习</title>
-    <link href="https://www.northarea.tech/2024/01/20/0x005/"/>
-    <id>https://www.northarea.tech/2024/01/20/0x005/</id>
-    <published>2024-01-19T21:16:35.000Z</published>
-    <updated>2024-01-20T14:58:44.066Z</updated>
+    <title>一个VTuber（虚拟主播）IP的运营记录</title>
+    <link href="https://www.northarea.tech/2024/05/26/0x003/"/>
+    <id>https://www.northarea.tech/2024/05/26/0x003/</id>
+    <published>2024-05-25T21:16:35.000Z</published>
+    <updated>2024-05-26T09:25:09.581Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span</summary>
+    <summary type="html">&lt;h1 id=&quot;导言&quot;&gt;&lt;a href=&quot;#导言&quot; class=&quot;headerlink&quot; title=&quot;导言&quot;&gt;&lt;/a&gt;导言&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;软件：Blender2.82，Unreal Engine 4,</summary>
         
       
     
@@ -68,19 +69,18 @@
   </entry>
   
   <entry>
-    <title>一个VTuber（虚拟主播）IP的运营记录</title>
-    <link href="https://www.northarea.tech/2023/10/18/0x003/"/>
-    <id>https://www.northarea.tech/2023/10/18/0x003/</id>
-    <published>2023-10-17T21:16:35.000Z</published>
-    <updated>2023-10-18T14:15:34.454Z</updated>
+    <title>从零开始的AI技术（应用）与板绘学习</title>
+    <link href="https://www.northarea.tech/2024/05/20/0x005/"/>
+    <id>https://www.northarea.tech/2024/05/20/0x005/</id>
+    <published>2024-05-19T21:16:35.000Z</published>
+    <updated>2024-05-26T09:23:03.183Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h1 id=&quot;导言&quot;&gt;&lt;a href=&quot;#导言&quot; class=&quot;headerlink&quot; title=&quot;导言&quot;&gt;&lt;/a&gt;导言&lt;/h1&gt;&lt;ul&gt;
-&lt;li&gt;软件：Blender2.82，Unreal Engine 4,</summary>
+    <summary type="html">&lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span</summary>
         
       
     
