@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>North Area</title>
   <icon>https://www.northarea.tech/favicon.png</icon>
-  <subtitle>Study at JAIST.</subtitle>
+  <subtitle>徘徊在虚与实的界限...</subtitle>
   <link href="https://www.northarea.tech/atom.xml" rel="self"/>
   
   <link href="https://www.northarea.tech/"/>
