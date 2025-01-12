@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.northarea.tech/about/site.html</loc>
+    
+    <lastmod>2025-01-12</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.northarea.tech/about/index.html</loc>
+    
+    <lastmod>2025-01-12</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.northarea.tech/2025/01/12/0x001/</loc>
+    
+    <lastmod>2025-01-12</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.northarea.tech/links/index.html</loc>
     
     <lastmod>2025-01-11</lastmod>
@@ -79,13 +100,6 @@
   </url>
   
   <url>
-    <loc>https://www.northarea.tech/about/index.html</loc>
-    
-    <lastmod>2022-10-19</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.northarea.tech/2022/10/19/7/</loc>
     
     <lastmod>2022-10-19</lastmod>
@@ -107,13 +121,6 @@
   </url>
   
   <url>
-    <loc>https://www.northarea.tech/about/site.html</loc>
-    
-    <lastmod>2020-05-28</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.northarea.tech/2017/10/19/0x000/</loc>
     
     <lastmod>2020-05-27</lastmod>
@@ -122,13 +129,6 @@
   
   <url>
     <loc>https://www.northarea.tech/albums/index.html</loc>
-    
-    <lastmod>2020-05-25</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.northarea.tech/2020/04/12/0x001/</loc>
     
     <lastmod>2020-05-25</lastmod>
     
@@ -226,14 +226,14 @@
   </url>
   
   <url>
-    <loc>https://www.northarea.tech/albums/bike.html</loc>
+    <loc>https://www.northarea.tech/albums/yunzhong.html</loc>
     
     <lastmod>2020-05-18</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.northarea.tech/albums/yunzhong.html</loc>
+    <loc>https://www.northarea.tech/albums/bike.html</loc>
     
     <lastmod>2020-05-18</lastmod>
     
@@ -291,7 +291,7 @@
   </url>
   
   <url>
-    <loc>https://www.northarea.tech/tags/%E5%B0%8F%E8%AF%B4/</loc>
+    <loc>https://www.northarea.tech/tags/%E9%BB%91%E5%8E%86%E5%8F%B2/</loc>
     <lastmod>2025-01-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -305,7 +305,7 @@
   </url>
   
   <url>
-    <loc>https://www.northarea.tech/tags/%E9%BB%91%E5%8E%86%E5%8F%B2/</loc>
+    <loc>https://www.northarea.tech/tags/%E5%B0%8F%E8%AF%B4/</loc>
     <lastmod>2025-01-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>

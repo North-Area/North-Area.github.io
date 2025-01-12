@@ -6,7 +6,7 @@
   <link href="https://www.northarea.tech/atom.xml" rel="self"/>
   
   <link href="https://www.northarea.tech/"/>
-  <updated>2025-01-11T15:47:32.648Z</updated>
+  <updated>2025-01-12T13:43:19.876Z</updated>
   <id>https://www.northarea.tech/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Web/运维技术笔记@2017~2025</title>
+    <link href="https://www.northarea.tech/2025/01/12/0x001/"/>
+    <id>https://www.northarea.tech/2025/01/12/0x001/</id>
+    <published>2025-01-12T04:10:46.000Z</published>
+    <updated>2025-01-12T13:43:19.876Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Typecho被getshell之反思&quot;&gt;&lt;a href=&quot;#Typecho被getshell之反思&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="技术文档" scheme="https://www.northarea.tech/categories/%E6%8A%80%E6%9C%AF%E6%96%87%E6%A1%A3/"/>
+    
+    
+    <category term="技术" scheme="https://www.northarea.tech/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+  </entry>
   
   <entry>
     <title>超级计算机使用笔记&amp;量子化学计算</title>
@@ -335,31 +360,6 @@
         
     <summary type="html">&lt;p&gt;这是2016年~2017年10月我所用的阿里云ECS的运维技术记录集合，主要是基于centos6.5/7.2,LAMP、LNMP与WordPress的个人维护记录集，适合新人参考。&lt;/p&gt;
 &lt;h1 id=&quot;备案与建站&quot;&gt;&lt;a href=&quot;#备案与建站&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="技术文档" scheme="https://www.northarea.tech/categories/%E6%8A%80%E6%9C%AF%E6%96%87%E6%A1%A3/"/>
-    
-    
-    <category term="技术" scheme="https://www.northarea.tech/tags/%E6%8A%80%E6%9C%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>后端/运维技术笔记@2017~2020</title>
-    <link href="https://www.northarea.tech/2020/04/12/0x001/"/>
-    <id>https://www.northarea.tech/2020/04/12/0x001/</id>
-    <published>2020-04-12T04:10:46.000Z</published>
-    <updated>2020-05-25T13:40:33.555Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;Typecho被getshell之反思&quot;&gt;&lt;a href=&quot;#Typecho被getshell之反思&quot; class=&quot;headerlink&quot;</summary>
         
       
     
