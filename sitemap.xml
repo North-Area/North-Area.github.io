@@ -219,14 +219,14 @@
   </url>
   
   <url>
-    <loc>https://www.northarea.tech/albums/bike.html</loc>
+    <loc>https://www.northarea.tech/albums/hokuriku.html</loc>
     
     <lastmod>2020-05-18</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.northarea.tech/albums/hokuriku.html</loc>
+    <loc>https://www.northarea.tech/albums/bike.html</loc>
     
     <lastmod>2020-05-18</lastmod>
     
@@ -256,14 +256,14 @@
 
   
   <url>
-    <loc>https://www.northarea.tech/tags/%E6%9C%9D%E8%8A%B1%E5%A4%95%E6%8B%BE/</loc>
+    <loc>https://www.northarea.tech/tags/%E6%8A%80%E6%9C%AF/</loc>
     <lastmod>2025-03-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.northarea.tech/tags/%E6%8A%80%E6%9C%AF/</loc>
+    <loc>https://www.northarea.tech/tags/%E6%9C%9D%E8%8A%B1%E5%A4%95%E6%8B%BE/</loc>
     <lastmod>2025-03-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -314,14 +314,14 @@
 
   
   <url>
-    <loc>https://www.northarea.tech/categories/%E6%89%8B%E8%B4%A6/</loc>
+    <loc>https://www.northarea.tech/categories/%E6%8A%80%E6%9C%AF%E6%96%87%E6%A1%A3/</loc>
     <lastmod>2025-03-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.northarea.tech/categories/%E6%8A%80%E6%9C%AF%E6%96%87%E6%A1%A3/</loc>
+    <loc>https://www.northarea.tech/categories/%E6%89%8B%E8%B4%A6/</loc>
     <lastmod>2025-03-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
