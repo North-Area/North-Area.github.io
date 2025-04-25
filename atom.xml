@@ -6,7 +6,7 @@
   <link href="https://www.northarea.tech/atom.xml" rel="self"/>
   
   <link href="https://www.northarea.tech/"/>
-  <updated>2025-03-08T17:51:27.870Z</updated>
+  <updated>2025-04-25T21:29:49.877Z</updated>
   <id>https://www.northarea.tech/</id>
   
   <author>
@@ -17,11 +17,36 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>超级计算机使用笔记&amp;量子化学计算&amp;光谱分析</title>
+    <link href="https://www.northarea.tech/2025/01/18/0x004/"/>
+    <id>https://www.northarea.tech/2025/01/18/0x004/</id>
+    <published>2025-01-17T16:16:35.000Z</published>
+    <updated>2025-04-25T21:29:49.877Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;导言&quot;&gt;&lt;a href=&quot;#导言&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="技术文档" scheme="https://www.northarea.tech/categories/%E6%8A%80%E6%9C%AF%E6%96%87%E6%A1%A3/"/>
+    
+    
+    <category term="技术" scheme="https://www.northarea.tech/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+  </entry>
+  
+  <entry>
     <title>博士三年级の手账</title>
-    <link href="https://www.northarea.tech/2025/03/09/10/"/>
-    <id>https://www.northarea.tech/2025/03/09/10/</id>
-    <published>2025-03-09T11:20:13.000Z</published>
-    <updated>2025-03-08T17:51:27.870Z</updated>
+    <link href="https://www.northarea.tech/2025/04/26/10/"/>
+    <id>https://www.northarea.tech/2025/04/26/10/</id>
+    <published>2025-04-26T11:20:13.000Z</published>
+    <updated>2025-04-25T21:28:33.277Z</updated>
     
     
       
@@ -39,31 +64,6 @@
     
     
     <category term="手账" scheme="https://www.northarea.tech/tags/%E6%89%8B%E8%B4%A6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>超级计算机使用笔记&amp;量子化学计算&amp;光谱分析</title>
-    <link href="https://www.northarea.tech/2025/01/18/0x004/"/>
-    <id>https://www.northarea.tech/2025/01/18/0x004/</id>
-    <published>2025-01-17T16:16:35.000Z</published>
-    <updated>2025-02-07T04:46:08.531Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;导言&quot;&gt;&lt;a href=&quot;#导言&quot; class=&quot;headerlink&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="技术文档" scheme="https://www.northarea.tech/categories/%E6%8A%80%E6%9C%AF%E6%96%87%E6%A1%A3/"/>
-    
-    
-    <category term="技术" scheme="https://www.northarea.tech/tags/%E6%8A%80%E6%9C%AF/"/>
     
   </entry>
   
