@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>North Area</title>
   <icon>https://www.northarea.tech/favicon.png</icon>
-  <subtitle>徘徊在虚与实的界限...</subtitle>
+  <subtitle>一切记忆...</subtitle>
   <link href="https://www.northarea.tech/atom.xml" rel="self"/>
   
   <link href="https://www.northarea.tech/"/>
-  <updated>2025-07-01T08:29:45.000Z</updated>
+  <updated>2026-05-29T18:07:58.948Z</updated>
   <id>https://www.northarea.tech/</id>
   
   <author>
@@ -17,11 +17,62 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>大三学年の手账</title>
+    <link href="https://www.northarea.tech/2018/08/18/3/"/>
+    <id>https://www.northarea.tech/2018/08/18/3/</id>
+    <published>2018-08-17T17:15:03.000Z</published>
+    <updated>2026-05-29T18:07:58.948Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;本文&lt;strong&gt;记录&lt;/strong&gt;着我大学生活“重新开始”的一年，基本上质量会高很多，不会有负能量的东西，而且也仅仅会记录比较重要的事情，所以文章不会太长。大概在2018年8月更新完毕。&lt;/p&gt;
+&lt;h1 id=&quot;【记录】9月&quot;&gt;&lt;a href=&quot;#【记录】9月&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="手账" scheme="https://www.northarea.tech/categories/%E6%89%8B%E8%B4%A6/"/>
+    
+    
+    <category term="手账" scheme="https://www.northarea.tech/tags/%E6%89%8B%E8%B4%A6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>大四学年の手账</title>
+    <link href="https://www.northarea.tech/2019/08/09/4/"/>
+    <id>https://www.northarea.tech/2019/08/09/4/</id>
+    <published>2019-08-08T18:24:12.000Z</published>
+    <updated>2026-05-29T17:33:42.896Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;【随笔】进入大四的自己&quot;&gt;&lt;a href=&quot;#【随笔】进入大四的自己&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="手账" scheme="https://www.northarea.tech/categories/%E6%89%8B%E8%B4%A6/"/>
+    
+    
+    <category term="手账" scheme="https://www.northarea.tech/tags/%E6%89%8B%E8%B4%A6/"/>
+    
+  </entry>
+  
+  <entry>
     <title>博士三年级の手账</title>
-    <link href="https://www.northarea.tech/2025/07/01/10/"/>
-    <id>https://www.northarea.tech/2025/07/01/10/</id>
-    <published>2025-07-01T11:20:13.000Z</published>
-    <updated>2025-07-01T08:29:45.000Z</updated>
+    <link href="https://www.northarea.tech/2025/10/01/10/"/>
+    <id>https://www.northarea.tech/2025/10/01/10/</id>
+    <published>2025-10-01T11:20:13.000Z</published>
+    <updated>2026-05-29T17:00:41.267Z</updated>
     
     
       
@@ -30,6 +81,84 @@
         
     <summary type="html">&lt;p&gt;从2024年10月1日起正式进入博士第三年，理论上是学制的最后一年，但对我个人来说则是脱离“做题蛆”思维的重要转折点，以及对以后的一些思考和探索的务实阶段。&lt;/p&gt;
 &lt;h1 id=&quot;【随笔】回国参加学术会议&quot;&gt;&lt;a href=&quot;#【随笔】回国参加学术会议&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="手账" scheme="https://www.northarea.tech/categories/%E6%89%8B%E8%B4%A6/"/>
+    
+    
+    <category term="手账" scheme="https://www.northarea.tech/tags/%E6%89%8B%E8%B4%A6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>北陆地偶的故事线</title>
+    <link href="https://www.northarea.tech/2025/10/04/idol-ishikawa/"/>
+    <id>https://www.northarea.tech/2025/10/04/idol-ishikawa/</id>
+    <published>2025-10-04T11:20:13.000Z</published>
+    <updated>2026-05-29T16:59:35.251Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;多图慎入。本文记录了我与北陆地偶的点点滴滴&lt;/p&gt;
+&lt;h1 id=&quot;【随笔】我与她的缘分&quot;&gt;&lt;a href=&quot;#【随笔】我与她的缘分&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="手账" scheme="https://www.northarea.tech/categories/%E6%89%8B%E8%B4%A6/"/>
+    
+    
+    <category term="手账" scheme="https://www.northarea.tech/tags/%E6%89%8B%E8%B4%A6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>在日本做研究员（博士后）的这半年の手账</title>
+    <link href="https://www.northarea.tech/2025/10/02/11/"/>
+    <id>https://www.northarea.tech/2025/10/02/11/</id>
+    <published>2025-10-02T11:20:13.000Z</published>
+    <updated>2026-05-29T16:59:20.664Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;多图慎入。本文记录了我在日本做博士后的点点滴滴重要的事情与杂想….&lt;/p&gt;
+&lt;h1 id=&quot;【随笔】租房，签证变更与入职&quot;&gt;&lt;a href=&quot;#【随笔】租房，签证变更与入职&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="手账" scheme="https://www.northarea.tech/categories/%E6%89%8B%E8%B4%A6/"/>
+    
+    
+    <category term="手账" scheme="https://www.northarea.tech/tags/%E6%89%8B%E8%B4%A6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>东京地偶的故事线</title>
+    <link href="https://www.northarea.tech/2025/10/03/idol-Tokyo/"/>
+    <id>https://www.northarea.tech/2025/10/03/idol-Tokyo/</id>
+    <published>2025-10-03T11:20:13.000Z</published>
+    <updated>2026-05-29T16:59:20.664Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;多图慎入。本文记录了我与东京地偶的点点滴滴&lt;/p&gt;
+&lt;h1 id=&quot;【随笔】我与她的缘分&quot;&gt;&lt;a href=&quot;#【随笔】我与她的缘分&quot; class=&quot;headerlink&quot;</summary>
         
       
     
@@ -373,57 +502,6 @@
   </entry>
   
   <entry>
-    <title>大四学年の手账</title>
-    <link href="https://www.northarea.tech/2019/08/09/4/"/>
-    <id>https://www.northarea.tech/2019/08/09/4/</id>
-    <published>2019-08-08T18:24:12.000Z</published>
-    <updated>2020-05-25T14:30:17.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;【随笔】进入大四的自己&quot;&gt;&lt;a href=&quot;#【随笔】进入大四的自己&quot; class=&quot;headerlink&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="手账" scheme="https://www.northarea.tech/categories/%E6%89%8B%E8%B4%A6/"/>
-    
-    
-    <category term="手账" scheme="https://www.northarea.tech/tags/%E6%89%8B%E8%B4%A6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>大三学年の手账</title>
-    <link href="https://www.northarea.tech/2018/08/18/3/"/>
-    <id>https://www.northarea.tech/2018/08/18/3/</id>
-    <published>2018-08-17T17:15:03.000Z</published>
-    <updated>2020-05-25T14:30:10.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;本文&lt;strong&gt;记录&lt;/strong&gt;着我大学生活“重新开始”的一年，基本上质量会高很多，不会有负能量的东西，而且也仅仅会记录比较重要的事情，所以文章不会太长。大概在2018年8月更新完毕。&lt;/p&gt;
-&lt;h1 id=&quot;【记录】9月&quot;&gt;&lt;a href=&quot;#【记录】9月&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="手账" scheme="https://www.northarea.tech/categories/%E6%89%8B%E8%B4%A6/"/>
-    
-    
-    <category term="手账" scheme="https://www.northarea.tech/tags/%E6%89%8B%E8%B4%A6/"/>
-    
-  </entry>
-  
-  <entry>
     <title>大二学年の手账</title>
     <link href="https://www.northarea.tech/2017/10/19/2/"/>
     <id>https://www.northarea.tech/2017/10/19/2/</id>
@@ -445,81 +523,6 @@
     
     
     <category term="手账" scheme="https://www.northarea.tech/tags/%E6%89%8B%E8%B4%A6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>大一学年の手账</title>
-    <link href="https://www.northarea.tech/2017/10/19/1/"/>
-    <id>https://www.northarea.tech/2017/10/19/1/</id>
-    <published>2017-10-19T11:20:13.000Z</published>
-    <updated>2020-05-25T14:30:01.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;多图慎入。本文记录了我大学一年级的点点滴滴重要的事情与杂想，这其中包括对垃圾环境的吐槽，也有参加数学建模比赛，与糟糕队友合作的故事，当然也有逃课去旅行，一个人去北京大学暑期学校的难忘回忆。总之，过去是痛苦的，但也是让人有所成长的。收获不多，但值得记录。毕竟客观来看，勉勉强强</summary>
-        
-      
-    
-    
-    
-    <category term="手账" scheme="https://www.northarea.tech/categories/%E6%89%8B%E8%B4%A6/"/>
-    
-    
-    <category term="手账" scheme="https://www.northarea.tech/tags/%E6%89%8B%E8%B4%A6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>乱七八糟的科研搬砖随笔（已停更）</title>
-    <link href="https://www.northarea.tech/2020/02/28/0x002/"/>
-    <id>https://www.northarea.tech/2020/02/28/0x002/</id>
-    <published>2020-02-27T16:44:28.000Z</published>
-    <updated>2020-05-25T14:29:53.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;这篇文章是我在2017年12月开的坑，但是AFK了将近一年，本质原因还是因为懒（借口）。不过在2018年9月19日开始，我正式开始了实验室生涯，做稀土光功能材料与计算方向，就不得不重新来填这个坑了2333。稀土元素独特的4f电子层轨道，让其具有独特的光、电、磁特性，使得稀土</summary>
-        
-      
-    
-    
-    
-    <category term="技术文档" scheme="https://www.northarea.tech/categories/%E6%8A%80%E6%9C%AF%E6%96%87%E6%A1%A3/"/>
-    
-    
-    <category term="技术" scheme="https://www.northarea.tech/tags/%E6%8A%80%E6%9C%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>DIY留学申请手札（已失效）</title>
-    <link href="https://www.northarea.tech/2019/07/25/apply/"/>
-    <id>https://www.northarea.tech/2019/07/25/apply/</id>
-    <published>2019-07-25T15:49:11.000Z</published>
-    <updated>2020-05-25T14:28:42.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h2 id=&quot;简单说明&quot;&gt;&lt;a href=&quot;#简单说明&quot; class=&quot;headerlink&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="瞎写" scheme="https://www.northarea.tech/categories/%E7%9E%8E%E5%86%99/"/>
-    
-    
-    <category term="留学" scheme="https://www.northarea.tech/tags/%E7%95%99%E5%AD%A6/"/>
     
   </entry>
   
